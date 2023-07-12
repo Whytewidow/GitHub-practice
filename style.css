@@ -1,0 +1,59 @@
+.one{
+    background-color: gold;
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    align-items:center;
+    padding:20px;
+    margin:20px;
+
+}   
+body{
+    background-image:url(https://www.gametales.it/storage/img/main/5dc452e092026.jpg);
+    background-repeat: repeat;
+
+    
+}
+P{
+    color:rgb(54, 1, 1);
+    font-size:20px;
+}
+.two{
+    color:rgb(247, 4, 4);
+    font-size:20px;
+    font-family: 'Chela One', cursive;
+}
+.three{
+    color:lawngreen;
+    font-size:30px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+li{
+    color:rgb(141, 46, 204);
+    font-size:30px;
+    font-family: 'Bebas Neue', sans-serif;
+    padding:30px;
+    margin:40px;
+    
+}
+.braker{
+    padding:30px;
+    margin:40px;
+    background-color:aquamarine;
+
+}
+.braker1{
+    padding:30px;
+    margin:40px;
+    background-color:blue;
+}
+.braker2{
+    padding:30px;
+    margin:40px;
+    background-color:rgb(63, 90, 9);
+}
+.braker3{
+    padding:30px;
+    margin:40px;
+    background-color:rgb(226, 135, 15);
+}
